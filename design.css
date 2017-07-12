@@ -45,8 +45,7 @@ hr{
 	position: relative;
 	background-color: black;
 	border-color: #b38f00;
-	height: 250px;
-	
+	height: 250px;	
 }
 
 #pic1{
@@ -67,4 +66,10 @@ hr{
 }
 li:hover{
 	background-color: #080806;
+}
+#flag{
+	margin: 5px;
+	margin-left: 2px;
+	height: 200px;
+	width: 180px;
 }

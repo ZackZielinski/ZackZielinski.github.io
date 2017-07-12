@@ -1,0 +1,70 @@
+body{
+background-color: #5d1919;
+width: 100%;
+}
+h1{
+	color: #ecdec3;
+}
+h3{
+	color: #ecdec3;
+	text-align: center;
+}
+.book{
+	color: white;
+} 
+.crisps{
+ color: #b38f00;
+}
+table, th, td{
+	margin: 0 auto;
+	border: 1px solid #b38f00;
+	align-content: center;
+	padding: 5px;
+}
+.boxer{
+	 position: fixed;
+	 display: block;
+	 bottom: 0px;
+	 top: 88%;
+	 width: 100%;
+	 text-align: left;
+	 
+}
+
+#show{
+	text-align: right;
+	padding-right: 1px;
+	padding-bottom: 5px;
+}
+
+hr{
+	border: 1px solid #b38f00;
+}
+
+.well{
+	position: relative;
+	background-color: black;
+	border-color: #b38f00;
+	height: 250px;
+	
+}
+
+#pic1{
+	height: 200px;
+	width: 175px;
+}
+#pic2{
+	height: 200px;
+	width: 185px;
+}
+.sidenav2{
+
+	padding-top: 20px;
+    background-color: gray;
+    height: 100%;
+    width: 245px;
+    
+}
+li:hover{
+	background-color: #080806;
+}

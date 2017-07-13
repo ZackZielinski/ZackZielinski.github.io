@@ -57,7 +57,8 @@ hr{
 	width: 185px;
 }
 .sidenav2{
-
+	position: relative;
+    display: inline-block;
 	padding-top: 20px;
     background-color: gray;
     height: 100%;

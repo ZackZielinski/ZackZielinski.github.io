@@ -13,11 +13,11 @@ h3{
 	color: white;
 } 
 .crisps{
- color: #b38f00;
+ color: #ecdec3;
 }
 table, th, td{
 	margin: 0 auto;
-	border: 1px solid #b38f00;
+	border: 1px solid #ecdec3;
 	align-content: center;
 	padding: 5px;
 }
@@ -45,7 +45,7 @@ hr{
 	position: relative;
 	background-color: black;
 	border-color: #b38f00;
-	height: 250px;	
+	height: 250px;
 }
 
 #pic1{
